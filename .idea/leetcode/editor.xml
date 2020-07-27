@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="$PROJECT_DIR$/../leetcode-Go /leetcode/editor/cn/[1]Two Sum.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../leetcode-Go /leetcode/editor/cn/[1]Two Sum.go" />
+              <option name="questionId" value="1" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode-Go /leetcode/editor/cn/[5]最长回文子串.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../leetcode-Go /leetcode/editor/cn/[5]最长回文子串.go" />
+              <option name="questionId" value="5" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode-Go /leetcode/editor/cn/[7]整数反转.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../leetcode-Go /leetcode/editor/cn/[7]整数反转.go" />
+              <option name="questionId" value="7" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[7]Reverse Integer.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[7]Reverse Integer.go" />
+              <option name="questionId" value="7" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/c5/rcndwdn120z68m06p0lnw91c0000gp/T/leetcode/editor/cn/[7]整数反转.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="/var/folders/c5/rcndwdn120z68m06p0lnw91c0000gp/T/leetcode/editor/cn/[7]整数反转.go" />
+              <option name="questionId" value="7" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/c5/rcndwdn120z68m06p0lnw91c0000gp/T/leetcode/editor/cn/[7]整数反转.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="/var/folders/c5/rcndwdn120z68m06p0lnw91c0000gp/T/leetcode/editor/cn/[7]整数反转.java" />
+              <option name="questionId" value="7" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
